@@ -1,3 +1,1 @@
-# homepage
-My very own personal website. Basically this is just a résumé.
-Hocus Pocus
+My home work for Binary Studio Accademy.  
